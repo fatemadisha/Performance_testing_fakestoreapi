@@ -11,7 +11,7 @@ Test executed for the below mentioned scenario in server https://fakestoreapi.co
 * 300 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is ~ 111 And Total Concurrent API requested: 87000
 
 ```diff
-- While executed 100 concurrent request, found 7 request got connection timeout and error rate is 0.01%.
+- While executed 300 concurrent request, found 7 request got connection timeout and error rate is 0.01%.
 ```
 <b>Summary:</b> Server can handle almost concurrent 250 API call with almost zero (0) error rate.
 
