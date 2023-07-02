@@ -18,4 +18,4 @@ Test executed for the below mentioned scenario in server https://fakestoreapi.co
 Please find the details report from the attachment.
 
 Report Image:
-![report_img]
+![report_img](https://github.com/fatemadisha/Performance_testing_fakestoreapi/blob/main/Report.png)
